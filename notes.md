@@ -3,9 +3,9 @@ Introduction
 
 Thanks very much for inviting me to NLA to learn more about all the stuff you 
 are doing here. I was just over at the excellent NDF conference in Wellington, 
-New Zealand last week.  Tim Sherrat (who I have a bit of a nerd crush on) 
-noticed I was going to be in Wellington, and he kindly worked with 
-Marie-Louise Ayres to bring me here today. Many thanks.
+New Zealand last week.  Tim Sherrat noticed I was going to be in Wellington, 
+and he kindly worked with Marie-Louise Ayres to bring me here today. Many 
+thanks.
 
 A little bit about me, I am a software developer working at the Library of 
 Congress in the United States. The Library of Congress is the de facto 
